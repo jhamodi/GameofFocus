@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FallingStones</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">PLAY</string>
+    <string name="btn2">High score</string>
+    <string name="btn3">Quit</string>
+    <string name="txt1">FallingStones</string>
+    <string name="txt2">High Scores</string>
+    <string name="txt3">scores</string>
+    <string name="score">Your Score</string>
+    <string name="sqlscoreinfo">Your score db</string>
+       <string name="options">Option</string>
+       <string name="deletedb">Delete your Highscore</string>
+       <string name="txtbx1">Music</string>
+       <string name="btn4">How to play</string>
+       <string name="bild1">bildhowtoplay</string>
+
+</resources>
